@@ -1,6 +1,6 @@
 # python-terminal-mono-thai
 ![demo image](demo.png)
-this project is intend to specifically handle python outpout in thai language that still be able to display monospace-positioning in prettier font than those existing monospace thai language out there
+this project is intend to specifically handle python output in thai language that still be able to display monospace-positioning in prettier font than those existing monospace thai language out there
 
 ## prerequisite
 - nodejs
