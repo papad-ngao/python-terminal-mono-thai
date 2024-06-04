@@ -30,7 +30,7 @@ npm i -g live-server
 - after the libray is installed, in your terminal, navigate to the directory that contains the folder 'output' from this repository and run
 
 ```
-npx live-server --host=localhost --port-3000
+npx live-server --host=localhost --port=3000
 ```
 
 - at this point, the browser should automatically open to the address `http://localhost:3000`, the suggested windows layout after the browser appear is to have your browser to be side-by-side with your terminal running python code (or even better, use your IDE's integrated terminal and have your IDE side-by-side with the browser)
